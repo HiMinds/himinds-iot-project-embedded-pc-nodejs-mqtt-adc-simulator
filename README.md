@@ -12,4 +12,15 @@ Inspired by:
 Change the MQTT_HOST, MQTT_USER, MQTT_PASSWORD, DEVICE and MQTT topic to suite your needs.
 
 
+## Installation
 
+```
+npm install
+```
+
+## Running
+Configure the paramters described above.
+
+```
+node main.js
+```
